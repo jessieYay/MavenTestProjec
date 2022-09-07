@@ -19,6 +19,6 @@ public class PokerHandTest {
 
     }
     public boolean checkThis(){
-        return false;
+        return true;
     }
 }
